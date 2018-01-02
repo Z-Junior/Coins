@@ -1,7 +1,7 @@
 public class Coin
 {
-    public final int HEADS = 0;
-    public final int TAILS = 1;
+    public final static int HEADS = 0;
+    public final static int TAILS = 1;
 
     private int face;
     private double bias;
